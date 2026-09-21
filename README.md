@@ -68,4 +68,4 @@ The current work includes:
 * Designing a simple and user-friendly menu interface.
 * Testing the program with different course and timetable combinations.
 **Current Status:** The core functionality is under development, with testing and improvements being carried out to ensure that course registration and timetable generation work correctly.
-**Next Phase:** Complete testing, fix errors, improve the user interface, and prepare the final project 
+**Next Phase:** Complete testing, fix errors, improve the user interface, and prepare the final project. Demonstration and the submission. 
